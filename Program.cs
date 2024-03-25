@@ -9,6 +9,8 @@
             {
                 Age = 31, Name = "Fred", SalesNumber = 50
             };
+
+            Console.WriteLine("This is a change");
             
         }
     }
