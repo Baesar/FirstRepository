@@ -1,0 +1,14 @@
+D:\Programmering\Microsoft VS Code\Solutions\Object-Oriented Program Development\Chapter6_AllProject\Employees\bin\Debug\net8.0\Employees.exe
+D:\Programmering\Microsoft VS Code\Solutions\Object-Oriented Program Development\Chapter6_AllProject\Employees\bin\Debug\net8.0\Employees.deps.json
+D:\Programmering\Microsoft VS Code\Solutions\Object-Oriented Program Development\Chapter6_AllProject\Employees\bin\Debug\net8.0\Employees.runtimeconfig.json
+D:\Programmering\Microsoft VS Code\Solutions\Object-Oriented Program Development\Chapter6_AllProject\Employees\bin\Debug\net8.0\Employees.dll
+D:\Programmering\Microsoft VS Code\Solutions\Object-Oriented Program Development\Chapter6_AllProject\Employees\bin\Debug\net8.0\Employees.pdb
+D:\Programmering\Microsoft VS Code\Solutions\Object-Oriented Program Development\Chapter6_AllProject\Employees\obj\Debug\net8.0\Employees.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmering\Microsoft VS Code\Solutions\Object-Oriented Program Development\Chapter6_AllProject\Employees\obj\Debug\net8.0\Employees.AssemblyInfoInputs.cache
+D:\Programmering\Microsoft VS Code\Solutions\Object-Oriented Program Development\Chapter6_AllProject\Employees\obj\Debug\net8.0\Employees.AssemblyInfo.cs
+D:\Programmering\Microsoft VS Code\Solutions\Object-Oriented Program Development\Chapter6_AllProject\Employees\obj\Debug\net8.0\Employees.csproj.CoreCompileInputs.cache
+D:\Programmering\Microsoft VS Code\Solutions\Object-Oriented Program Development\Chapter6_AllProject\Employees\obj\Debug\net8.0\Employees.dll
+D:\Programmering\Microsoft VS Code\Solutions\Object-Oriented Program Development\Chapter6_AllProject\Employees\obj\Debug\net8.0\refint\Employees.dll
+D:\Programmering\Microsoft VS Code\Solutions\Object-Oriented Program Development\Chapter6_AllProject\Employees\obj\Debug\net8.0\Employees.pdb
+D:\Programmering\Microsoft VS Code\Solutions\Object-Oriented Program Development\Chapter6_AllProject\Employees\obj\Debug\net8.0\Employees.genruntimeconfig.cache
+D:\Programmering\Microsoft VS Code\Solutions\Object-Oriented Program Development\Chapter6_AllProject\Employees\obj\Debug\net8.0\ref\Employees.dll
