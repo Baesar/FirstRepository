@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programmering\\Microsoft VS Code\\Solutions\\Object-Oriented Program Development\\Chapter6_AllProject\\Employees\\Employees.csproj",
+      "projectUniqueName": "D:\\Plugg\\Kurser\\Mjukvaruutveckling\\FirstRepository\\Employees.csproj",
       "projectName": "Employees",
-      "projectPath": "D:\\Programmering\\Microsoft VS Code\\Solutions\\Object-Oriented Program Development\\Chapter6_AllProject\\Employees\\Employees.csproj",
+      "projectPath": "D:\\Plugg\\Kurser\\Mjukvaruutveckling\\FirstRepository\\Employees.csproj",
       "packagesPath": "C:\\Users\\juliu\\.nuget\\packages\\",
-      "outputPath": "D:\\Programmering\\Microsoft VS Code\\Solutions\\Object-Oriented Program Development\\Chapter6_AllProject\\Employees\\obj\\",
+      "outputPath": "D:\\Plugg\\Kurser\\Mjukvaruutveckling\\FirstRepository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\juliu\\AppData\\Roaming\\NuGet\\NuGet.Config",
